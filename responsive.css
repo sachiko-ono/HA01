@@ -1,4 +1,8 @@
 @media(max-width:748px) {
+    .wrapper {
+        overflow: hidden;
+    }
+
     .header-container {
         width: 90%;
     }
